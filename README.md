@@ -22,24 +22,5 @@ I build **high-performance, scalable web applications** using modern frameworks 
 - **[Next - Hono - Better Auth](https://github.com/m-umar-ch/Nextjs-and-Hono-with-Better-Auth)** — I don't wanna remake this everytime
 - **[Nest JS - Auth](https://github.com/m-umar-ch/nestjs-with-auth-template)** — Because companies don't care how good Hono is
 
-
-
----
-
-
-## 🧰 Tech Toolbox
-
-**Core Stack:** TypeScript, Next.js, Tailwind, Nest JS or Hono, Postgres with Drizzle ORM  
-
-**Backend & APIs:** NestJS, Hono, tRPC, Convex, Next.js Route Handlers  
-
-**Databases & Storage:** PostgreSQL, MongoDB, SQLite, S3-compatible storage  
-
-**Tooling & Infrastructure:** Drizzle, Prisma, Mongoose, TypeORM, AWS, VPS, Vercel  
-
-**Frontend Ecosystem:** Tailwind CSS, ShadCN UI, TanStack tools, React Hook Form, Zustand  
-
-**Integrations:** LLM APIs, analytics, and conversion tracking
-
 ---
 Checkout my [LinkedIn](https://www.linkedin.com/in/m-umar-chaudhry), or [my site I guess](https://umarchaudhry.vercel.app)
