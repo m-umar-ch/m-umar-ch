@@ -1,11 +1,3 @@
-## A Bit About Me
-
-I build **high-performance, scalable web applications** using modern frameworks and clean architecture principles. My focus is helping businesses ship **reliable, SEO-friendly products quickly**, while ensuring **long-term maintainability and scalability**.
-
----
-
-## Current Projects
-
 ### Products
 
 - **[Crockery Store](https://onlinecrockerystore.com)** — Ecommerce Application with custom admin panel
