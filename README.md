@@ -3,7 +3,7 @@
 - **[Crockery Store](https://onlinecrockerystore.com)** — Ecommerce Application with custom admin panel
 - **[Inventory Pro](https://inventory.onlinecrockerystore.com)** — Inventory Management System because I can't find one that a non-tech person can understand
 - **[Expense Track](https://expense.onlinecrockerystore.com)** — Because Tracking Expenses on Notion or Excel Sucks
-- **[Devric Solutions](https://devricsolutions)** — Company that approached me for their Company Website
+- **[Devric Solutions](https://devricsolutions.com)** — Company that approached me for their Company Website
 - **[Chaudhry](https://umarchaudhry.vercel.app)** — Portfolio Site. Hehe
 <!-- - **T3 Code** — A harness for your AI harnesses (coming soon) -->
 
